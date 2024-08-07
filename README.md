@@ -1,5 +1,5 @@
 # BEP-20 Wallet Generator
-![image](https://github.com/user-attachments/assets/e05ffe99-635b-4b78-9aea-ebd5c7d61b96)
+![image](https://github.com/user-attachments/assets/04d69945-ebee-488a-ac20-394fc2df43a5)
 
 ## Description
 This script generates random BEP-20 wallets using BIP39 seed phrases. Each wallet includes an address, seed phrase, and private key. The generated wallet data is stored in `wallet.txt`, and only the addresses are saved in `address.txt`.
