@@ -23,5 +23,6 @@ python main.py
 ```bash
 python main.py
 ```
+```bash
 enter the number of wallets to create
 ```
