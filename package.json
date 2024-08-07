@@ -1,0 +1,14 @@
+{
+    "name": "bep20-wallet-generator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Najib Yahya",
+    "license": "MIT",
+    "dependencies": {
+        "bip39": "^3.0.4"
+    }
+}
