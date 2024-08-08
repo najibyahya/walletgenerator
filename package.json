@@ -9,6 +9,7 @@
     "author": "Najib Yahya",
     "license": "MIT",
     "dependencies": {
-        "bip39": "^3.0.4"
+        "bip39": "^3.0.4",
+        "ethereumjs-wallet": "^10.8.1"
     }
 }
