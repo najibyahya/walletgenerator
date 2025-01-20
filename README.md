@@ -1,4 +1,4 @@
-# BEP-20 Wallet Generator
+# EVM Wallet Generator
 ![image](https://github.com/user-attachments/assets/d8f4f580-3ad8-4674-a530-be31779fb993)
 
 ## Description
