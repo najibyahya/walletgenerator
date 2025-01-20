@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/d8f4f580-3ad8-4674-a530-be31779fb993)
 
 ## Description
-This script generates random BEP-20 wallets using BIP39 seed phrases. Each wallet includes an address, seed phrase, and private key. The generated wallet data is stored in `wallet.txt`, and only the addresses are saved in `address.txt`.
+This script generates random EVM wallets. Each wallet includes an address, seed phrase, and private key. The generated wallet data is stored in `wallet.txt`, and only the addresses are saved in `address.txt`.
 
 ## Tools
 - Nodejs v22.xxx
